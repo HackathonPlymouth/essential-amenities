@@ -1,2 +1,2 @@
-essential-amenities
+Essential Amenities
 ===================
